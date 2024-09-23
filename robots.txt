@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://qhsxfg.github.io/sitemap.html.gz
+Sitemap: https://qhsxfg.github.io/app/sitemap.html.gz
+Sitemap: https://qhsxfg.github.io/assets/sitemap.html.gz
+Sitemap: https://qhsxfg.github.io/css/sitemap.html.gz
+Sitemap: https://qhsxfg.github.io/data/sitemap.html.gz
+Sitemap: https://qhsxfg.github.io/includes/sitemap.html.gz
+Sitemap: https://qhsxfg.github.io/item/sitemap.html.gz
+Sitemap: https://qhsxfg.github.io/src/sitemap.html.gz
